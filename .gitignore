@@ -1,0 +1,6 @@
+build/main
+assembly/
+generated.asm
+generated
+*.o
+*.asm
